@@ -7,7 +7,7 @@ Extension to group browser tabs by URL domain into a new window.
 
 ## Features
 
-- Shows all open tabs grouped by domain
+- Shows all open tabs grouped by domain, clicking moves them to a new window
 - Supports "The Marvelous Suspender" and groups tabs correctly by original URL domain
 - Also creates a group for all `News` domains (e.g. `bloomberg.com`, `cnn.com`, etc.)
 - Allows saving all tabs in group to [Pocket](https://getpocket.com) (`P`)
