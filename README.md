@@ -1,9 +1,9 @@
 # squasher-browser-extension
 
-Extension to group browser tabs by URL domain into a new window.
+Extension to group browser tabs by domain with a single click. Supports `The Marvelous Suspender` & `Pocket`, and auto-groups news sites into a special group.
 
 > [!WARNING]
-> *This may be buggy, it's written for my own personal use only (use at your own risk).*
+> *This may be buggy, it's written only for my personal needs and has no tests (use at your own risk).*
 
 ## Features
 
