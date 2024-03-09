@@ -3,6 +3,9 @@
 Extension to group browser tabs by domain with a single click.  
 Supports `The Marvelous Suspender` & `Pocket`, and auto-groups news sites separately.
 
+<img width="500" alt="image" src="https://github.com/pirate/squasher-browser-extension/assets/511499/4d0528c2-41dc-4c4a-8cee-27e55f22755d">
+
+
 > [!WARNING]
 > *This may be buggy, it's written only for my personal needs and has no tests (use at your own risk).*
 
@@ -21,10 +24,6 @@ Supports `The Marvelous Suspender` & `Pocket`, and auto-groups news sites separa
 3. Slide the `Developer Mode` toggle to `On`
 4. Click the `Load unpacked` button and select the unzipped extension folder
 5. ✅ Extension should now appear in Chrome navbar
-
----
-
-<img width="796" alt="image" src="https://github.com/pirate/squasher-browser-extension/assets/511499/4d0528c2-41dc-4c4a-8cee-27e55f22755d">
 
 ---
 
