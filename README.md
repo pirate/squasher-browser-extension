@@ -12,12 +12,33 @@ Extension to group browser tabs by URL domain into a new window.
 - Allows saving all tabs in group to [Pocket](https://getpocket.com) (`P`)
 - Allows closing all tabs in group with one click (`x`)
 
-<img width="796" alt="image" src="https://github.com/pirate/squasher-browser-extension/assets/511499/4d0528c2-41dc-4c4a-8cee-27e55f22755d">
-
 ## Installation
 
-1. ⬇️ Download and unzip the extension: https://github.com/pirate/squasher-browser-extension/archive/refs/heads/main.zip
-2. Go to [`chrome://extensions`](chrome://extensions/)
-3. Enable `Developer Mode`: `On`
-4. Click `Load unpacked` and select the unzipped folder you downloaded in step 1.
+1. ⬇️ Download [`squasher-browser-extension.zip`](https://github.com/pirate/squasher-browser-extension/archive/refs/heads/main.zip) and unzip it somewhere
+2. Open your Chrome Extensions settings page: [`chrome://extensions`](chrome://extensions/)
+3. Slide the `Developer Mode` toggle to `On`
+4. Click the `Load unpacked` button and select the unzipped extension folder
 5. ✅ Extension should now appear in Chrome navbar
+
+---
+
+<img width="796" alt="image" src="https://github.com/pirate/squasher-browser-extension/assets/511499/4d0528c2-41dc-4c4a-8cee-27e55f22755d">
+
+---
+
+## Other Helpful Extensions
+
+These are some extensions I use that help with managing tabs in other ways.
+
+- ⭐️ [The Marvelous Suspender](https://chromewebstore.google.com/detail/the-marvellous-suspender/noogafoofpebimajpfpamcfhoaifemoa)
+- ⭐️ [Tab Manager Plus for Chrome](https://chromewebstore.google.com/detail/tab-manager-plus-for-chro/cnkdjjdmfiffagllbiiilooaoofcoeff)
+- ⭐️ [OneTab](https://chromewebstore.google.com/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)
+- ⭐️ [Simple Tab Sorter](https://chromewebstore.google.com/detail/simple-tab-sorter/cgfpgnepljlgenjclbekbjdlgcodfmjp)
+- ⭐️ [Close Duplicate Tab](https://chromewebstore.google.com/detail/close-duplicate-tab/lccfnphpgnpeghoffocbacbkohbapinm)
+- ⭐️ [History Trends Unlimited](https://chromewebstore.google.com/detail/history-trends-unlimited/pnmchffiealhkdloeffcdnbgdnedheme)
+- [Auto Tab Discard (suspend)](https://chromewebstore.google.com/detail/auto-tab-discard-suspend/jhnleheckmknfcgijgkadoemagpecfol)
+- [Auto Group Tabs](https://chromewebstore.google.com/detail/auto-group-tabs/danncghahncanipdoajmakdbeaophenb)
+- [Intention - Stop Mindless Browsing](https://chromewebstore.google.com/detail/intention-stop-mindless-b/dladanhaondcgpahgiflodhckhoeohoe)
+- [Metabrowsing](https://chromewebstore.google.com/detail/metabrowsing/mbebibdoedjcppilmibkdobpgooplbhi)
+- [Session Buddy](https://chromewebstore.google.com/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko)
+- [Tab Wrangler](https://chromewebstore.google.com/detail/tab-wrangler/egnjhciaieeiiohknchakcodbpgjnchh)
