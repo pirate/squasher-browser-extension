@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Group Tabs by Domain</title>
+    <script src="popup.js"></script>
+    <style>
+      html, body {
+        width: 700px;
+        height: 600px;
+        border: 0;
+        margin: 0;
+      }
+      a:hover {
+        color: red !important;
+      }
+      #tab-groups-many button {
+        font-size: 18px;
+      }
+      #tab-groups-few button {
+        font-size: 14px;
+      }
+      #tab-groups-one button {
+        font-size: 12px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="tab-groups-many"></div>
+    <hr/>
+    <div id="tab-groups-few"></div>
+    <hr/>
+    <div id="tab-groups-one"></div>
+  </body>
+</html>
