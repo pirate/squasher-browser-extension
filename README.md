@@ -10,8 +10,8 @@ Supports `The Marvelous Suspender` & `Pocket`, and auto-groups news sites separa
 
 - Shows all open tabs grouped by domain, clicking moves them to a new window
 - Supports [`The Marvelous Suspender`](https://chromewebstore.google.com/detail/the-marvellous-suspender/noogafoofpebimajpfpamcfhoaifemoa) and groups tabs correctly by original URL domain
-- Also creates a group for all `News` domains (e.g. `bloomberg.com`, `cnn.com`, etc.)
-- Allows saving all tabs in group to [Pocket](https://getpocket.com) (`P`)
+- Creates special `News` group using common auto-detected news domains (e.g. `bloomberg.com`, `cnn.com`, etc.)
+- Allows saving all tabs in group to [Pocket](https://getpocket.com) with one click (`P`)
 - Allows closing all tabs in group with one click (`x`)
 
 ## Installation
