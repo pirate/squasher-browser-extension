@@ -3,7 +3,7 @@
 Extension to group browser tabs by URL domain into a new window.
 
 > [!WARNING]
-> *This may be buggy, it's designed for my own personal use and is not polished for the general public.*
+> *This may be buggy, it's written for my own personal use only (use at your own risk).*
 
 ## Features
 
