@@ -11,7 +11,7 @@ Supports `The Marvelous Suspender` & `Pocket`, and auto-groups news sites separa
 - Shows all open tabs grouped by domain, clicking moves them to a new window
 - Supports [`The Marvelous Suspender`](https://chromewebstore.google.com/detail/the-marvellous-suspender/noogafoofpebimajpfpamcfhoaifemoa) and groups tabs correctly by original URL domain
 - Creates special `News` group using common auto-detected news domains (e.g. `bloomberg.com`, `cnn.com`, etc.)
-- Allows saving all tabs in group to [Pocket](https://getpocket.com) with one click (`P`)
+- Allows saving all tabs in group to [`Pocket`](https://getpocket.com) with one click (`P`)
 - Allows closing all tabs in group with one click (`x`)
 
 ## Installation
@@ -38,6 +38,7 @@ These are some extensions I use that help with managing tabs in other ways.
 - ⭐️ [Simple Tab Sorter](https://chromewebstore.google.com/detail/simple-tab-sorter/cgfpgnepljlgenjclbekbjdlgcodfmjp)
 - ⭐️ [Close Duplicate Tab](https://chromewebstore.google.com/detail/close-duplicate-tab/lccfnphpgnpeghoffocbacbkohbapinm)
 - ⭐️ [History Trends Unlimited](https://chromewebstore.google.com/detail/history-trends-unlimited/pnmchffiealhkdloeffcdnbgdnedheme)
+- ⭐️ [Save to Pocket](https://chromewebstore.google.com/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj)
 - [Auto Tab Discard (suspend)](https://chromewebstore.google.com/detail/auto-tab-discard-suspend/jhnleheckmknfcgijgkadoemagpecfol)
 - [Auto Group Tabs](https://chromewebstore.google.com/detail/auto-group-tabs/danncghahncanipdoajmakdbeaophenb)
 - [Intention - Stop Mindless Browsing](https://chromewebstore.google.com/detail/intention-stop-mindless-b/dladanhaondcgpahgiflodhckhoeohoe)
