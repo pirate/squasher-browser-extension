@@ -25,6 +25,8 @@ Supports `The Marvelous Suspender` & `Pocket`, and auto-groups news sites separa
 4. Click the `Load unpacked` button and select the unzipped extension folder
 5. ✅ Extension should now appear in Chrome navbar
 
+<img src="https://github.com/pirate/squasher-browser-extension/blob/main/images/icon128.png?raw=true" alt="extension icon (Jeremy from the Yellow Submarine movie)" height="48px"/>
+
 ---
 
 ## Other Helpful Extensions
