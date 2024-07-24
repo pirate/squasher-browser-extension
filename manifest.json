@@ -1,11 +1,9 @@
 {
   "manifest_version": 3,
-  "name": "Domain Group Tabs",
-  "version": "1.0",
-  "permissions": ["tabs", "activeTab"],
-  "background": {
-    "service_worker": "background.js"
-  },
+  "name": "Squasher Tab Manager",
+  "version": "1.2",
+  "description": "Manage all open tabs in a spreadsheet-style UI",
+  "permissions": ["tabs", "activeTab", "storage", "scripting", "windows"],
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
@@ -13,6 +11,9 @@
       "48": "images/icon48.png",
       "128": "images/icon128.png"
     }
+  },
+  "background": {
+    "service_worker": "background.js"
   },
   "icons": {
     "16": "images/icon16.png",
