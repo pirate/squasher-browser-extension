@@ -3,7 +3,7 @@
 Extension to group browser tabs by domain with a single click.  
 Supports `The Marvelous Suspender` & `Pocket`, and auto-groups news sites separately.
 
-<img width="500" alt="image" src="https://github.com/pirate/squasher-browser-extension/assets/511499/4d0528c2-41dc-4c4a-8cee-27e55f22755d">
+<img width="450" alt="image" src="https://github.com/pirate/squasher-browser-extension/assets/511499/4d0528c2-41dc-4c4a-8cee-27e55f22755d"><img width="450" alt="image" src="https://github.com/user-attachments/assets/aaefbf74-b157-4eb9-be54-c2b84990af93">
 
 
 > [!WARNING]
